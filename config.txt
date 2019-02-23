@@ -1,0 +1,6 @@
+﻿token=NTQ4NzY4NTcyOTkwODE2MjY4.D1KIiA.P1Elb_vuFc6TseHTTI-PKd7_hP4
+owner=514357321355231235
+prefix=$ 
+game=Created By Vééééx#2227 Prison Server
+stayinchannel=true
+songinstatus= true
